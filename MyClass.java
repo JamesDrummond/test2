@@ -16,12 +16,12 @@ public class MyClass
 	 * @ordered
 	 */
 	
-	public String attribute;
+	public String attribute = "test";
 	
 	/**
 	 * <!-- begin-user-doc -->
 	 * <!--  end-user-doc  -->
-	 * @generated
+	 * @generated NOT
 	 * @ordered
 	 */
 	
