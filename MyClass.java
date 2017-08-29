@@ -25,7 +25,7 @@ public class MyClass
 	 * @ordered
 	 */
 	
-	public int attribute2;
+	public int attribute2 = "test1234";
 	
 	/**
 	 * <!-- begin-user-doc -->
