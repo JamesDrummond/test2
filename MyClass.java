@@ -16,7 +16,7 @@ public class MyClass
 	 * @ordered
 	 */
 	
-	public String attribute;
+	public String attribute = "test";
 	
 	/**
 	 * <!-- begin-user-doc -->
