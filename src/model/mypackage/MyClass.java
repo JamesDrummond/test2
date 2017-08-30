@@ -27,7 +27,6 @@ public class MyClass {
     * @generated
     */
     public String getAttribute() {
-        int test = 0;
         return this.attribute;
     }
     
