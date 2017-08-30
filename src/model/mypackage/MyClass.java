@@ -19,7 +19,7 @@ public class MyClass {
     /**
     * @generated
     */
-    private String attribute3;
+    private String attribute3 = "test";
     
     
     
