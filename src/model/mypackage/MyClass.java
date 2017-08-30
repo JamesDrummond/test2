@@ -17,9 +17,9 @@ public class MyClass {
     private Integer attribute2;
     
     /**
-    * @generated
+    * @generated NOT
     */
-    private String attribute3;
+    private String attribute3 = "test";
     
     
     
@@ -27,6 +27,7 @@ public class MyClass {
     * @generated
     */
     public String getAttribute() {
+        int test = 0;
         return this.attribute;
     }
     
