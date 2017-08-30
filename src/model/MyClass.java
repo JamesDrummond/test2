@@ -36,6 +36,13 @@ public class MyClass {
     /**
     * @generated
     */
+    private Integer attribute6;
+
+
+
+				/**
+    * @generated
+    */
     public String getAttribute() {
         return this.attribute;
     }
@@ -101,6 +108,20 @@ public class MyClass {
     */
     public Boolean setAttribute5(Boolean attribute5) {
         this.attribute5 = attribute5;
+    }
+
+				/**
+    * @generated
+    */
+    public Integer getAttribute6() {
+        return this.attribute6;
+    }
+
+				/**
+    * @generated
+    */
+    public Integer setAttribute6(Integer attribute6) {
+        this.attribute6 = attribute6;
     }
     
 }
