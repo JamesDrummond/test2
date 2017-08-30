@@ -19,7 +19,7 @@ public class MyClass {
     /**
     * @generated NOT
     */
-    private Integer attribute2 = "test";
+    private Integer attribute2 = "test123";
     
     /**
     * @generated
