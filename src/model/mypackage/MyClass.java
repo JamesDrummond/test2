@@ -14,6 +14,11 @@ public class MyClass {
     /**
     * @generated
     */
+    private Integer attribute4;
+
+				/**
+    * @generated
+    */
     private Integer attribute2;
     
     /**
@@ -24,6 +29,18 @@ public class MyClass {
     
     
     /**
+    * @generated
+    */
+    private Boolean attribute5;
+
+				/**
+    * @generated
+    */
+    private Integer attribute6;
+
+
+
+				/**
     * @generated
     */
     public String getAttribute() {
@@ -38,6 +55,20 @@ public class MyClass {
     }
     
     /**
+    * @generated
+    */
+    public Integer getAttribute4() {
+        return this.attribute4;
+    }
+
+				/**
+    * @generated
+    */
+    public Integer setAttribute4(Integer attribute4) {
+        this.attribute4 = attribute4;
+    }
+
+				/**
     * @generated
     */
     public Integer getAttribute2() {
@@ -63,6 +94,34 @@ public class MyClass {
     */
     public String setAttribute3(String attribute3) {
         this.attribute3 = attribute3;
+    }
+
+				/**
+    * @generated
+    */
+    public Boolean getAttribute5() {
+        return this.attribute5;
+    }
+
+				/**
+    * @generated
+    */
+    public Boolean setAttribute5(Boolean attribute5) {
+        this.attribute5 = attribute5;
+    }
+
+				/**
+    * @generated
+    */
+    public Integer getAttribute6() {
+        return this.attribute6;
+    }
+
+				/**
+    * @generated
+    */
+    public Integer setAttribute6(Integer attribute6) {
+        this.attribute6 = attribute6;
     }
     
 }
